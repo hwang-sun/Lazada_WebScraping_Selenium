@@ -4,7 +4,7 @@
 I was planning on scraping real time data for performing sentiment analysis based on the product comments. Product descriptions are also a good based data for constructing
 recommendation system (content filtering) project.
 
-## Data scaping process
+## Data scraping process
 1. Set up Selenium driver for scraping data.
 2. Choose website platform that provide data for the project objective (Lazada).
 3. Used selenium driver to automatically open web browser and get to the website page.
