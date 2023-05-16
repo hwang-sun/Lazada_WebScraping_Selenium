@@ -2,7 +2,7 @@
 ---
 ## Project Objective
 I was planning on scraping real time data for performing sentiment analysis based on the product comments. Product descriptions are also a good based data for constructing
-recommendation system (content filtering).
+recommendation system (content filtering) project.
 
 ## Data scaping process
 1. Set up Selenium driver for scraping data.
